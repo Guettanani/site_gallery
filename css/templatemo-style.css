@@ -401,8 +401,8 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 
 .tm-img {
 	max-width: 320px;
-  	width: 98%;
-  	height: 97%;
+  	width: 80%;
+  	height: 80%;
   	border: 3px solid black; 
   	margin: 0 auto;
 }

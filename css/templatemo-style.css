@@ -147,7 +147,7 @@ button:focus { outline: none; }
 .cd-hero-slider li:nth-of-type(1) { background-color: rgba(70, 0, 70, 0.8); }
 .cd-hero-slider li:nth-of-type(2) { background-color: rgba(237, 84, 76, 0.62); }
 .cd-hero-slider li:nth-of-type(3) { background-color: rgba(234, 163, 25, 0.62); }
-.cd-hero-slider li:nth-of-type(4) { background-color: rgba(22, 181, 163, 0.62); }
+.cd-hero-slider li:nth-of-type(4) { background-color: rgba(152, 223, 196, 1) }
 .cd-hero-slider li:nth-of-type(5) { background-color: rgba(68, 127, 202, 0.62); }
 
 .cd-slider-nav .nav-item:nth-of-type(1).selected .nav-link,
